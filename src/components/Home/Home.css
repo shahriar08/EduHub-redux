@@ -1,0 +1,19 @@
+.header-title{
+    margin: auto;
+    color: #ffffff;
+       
+}
+.homeHeader{
+    background: url("../Header/education-concept.jpg");
+    height: 300px;
+    background-position: center;
+    background-size: 100%;
+    opacity: 1.7;
+    background-repeat: no-repeat;
+}
+
+.header-btn{
+    margin-left: 43%;
+    margin-top: -20%;
+    background-color:  #FF2E63;
+}
