@@ -9,6 +9,7 @@ const NotFound = () => {
                 <div className="card-body">
                     <h4 className="card-text text-center">Sorry, Page Not Found!</h4>
                 </div>
+                
             </div>
         </div>
     );

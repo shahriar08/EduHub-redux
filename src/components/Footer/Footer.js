@@ -11,7 +11,7 @@ const Footer = () => {
       <div className='container footers-div'>
         <div className='footer-div'>
           <ul>
-            <h5>About</h5>
+            <h5>About Us</h5> 
             <p>About us</p>
             <p>Terms & Policy</p>
             <p>Community</p>

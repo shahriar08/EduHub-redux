@@ -20,6 +20,7 @@ function App() {
             <Home></Home>
             <Footer></Footer>
           </Route>
+          
           <Route path="/home">
             <Home></Home>
             <Footer></Footer>

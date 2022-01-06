@@ -19,6 +19,7 @@ var courses = [
         "courseInfo": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
         "coursePrice": 89.99
     },
+    
     {
         "id": 3,
         "author": "Dr. Angela Yu",

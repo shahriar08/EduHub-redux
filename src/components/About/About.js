@@ -10,7 +10,6 @@ const About = () => {
                 <p className="d-flex justify-content-center" >
                     Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.</p>
             </div>
-
             <div className="d-flex justify-content-center">
                 <img className='w-50' src={image} alt="" />
             </div>

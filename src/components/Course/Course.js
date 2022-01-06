@@ -11,7 +11,6 @@ const Course = (props) => {
                 setCourses(sliceData);
             });
     }, []);
-
     return (
         <div className="row">
             {

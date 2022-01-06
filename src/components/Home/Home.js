@@ -22,8 +22,6 @@ const Home = (props) => {
             </Header>
             <button type="button" className="btn btn-danger header-btn">Find Your Courses</button>
             <Course limit={4} />
-
-
         </div>
     );
 };
